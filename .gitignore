@@ -3,11 +3,5 @@
 db-data/
 *.sock
 
-# WordPress specific
-wp-config.php
-.htaccess
 
-# Other common exclusions
-node_modules/
-.env
-*.log
+
